@@ -53,10 +53,19 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
+### @AmAnKuMaR061006 — Aman's first alpie
 
-<img width="1024" height="1024" alt="813f86d4-cc5f-4de8-bf85-6223603dc503" src="https://github.com/user-attachments/assets/98d030f2-c220-4f99-8571-f6efdc906085" />
+<img width="512" height="512" alt="aman-169pi-tile" src="https://github.com/user-attachments/assets/9e58aec1-bdcb-4ac1-9d8a-f57e62de8d27" />
+
+*What it represents:* Alpie-Core as an agile "local AI" starfighter using 4-bit edge intelligence to operate autonomously against sprawling, resource-heavy centralized "monopolies."
+**Contributed by [@AmAnKuMaR061006](https://github.com/AmAnKuMaR061006)**
+
+### @169pi — the first brick 🧱
+This wall is yours to build on. Fork the repo, add your entry right here, and
+open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
+
+*What it represents:* the open, collaborative spirit behind everything at 169pi.
 **Contributed by [@169pi](https://github.com/169Pi)**
-
 <!-- ENTRIES:END -->
 
 ---
